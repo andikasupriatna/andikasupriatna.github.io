@@ -4,7 +4,7 @@
 
 # Overview
 
-<img src="https://github.com/andikasupriatna/absmine/blob/main/assets/img/mockapp.png" align="left">
+<img src="https://github.com/andikasupriatna/andikasupriatna/blob/main/assets/img/mockapp.png" align="left">
 <br>
 <br>
 <p align="center"> <code> `https://andikasupriatna.github.io` </code> </p>
