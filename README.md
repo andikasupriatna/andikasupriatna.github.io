@@ -4,10 +4,10 @@
 
 # Overview
 
-<img src="https://github.com/shaurya-src/web-portfolio/blob/main/assets/img/still.jpg" align="left">
+<img src="https://github.com/andikasupriatna/absmine/blob/main/assets/img/mockapp.png" align="left">
 <br>
 <br>
-<p align="center"> <code> `shauryasrc.com` </code> </p>
+<p align="center"> <code> `https://andikasupriatna.github.io` </code> </p>
 
 # <a name="project-info"> Project Details
 
@@ -20,9 +20,9 @@ In addition, you can also customize the following properties according to the ne
 
 # Features
 
-![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/shaurya-src.github.io?logo=GitHub&style=flat-square)
-![License](https://img.shields.io/github/license/shaurya-src/shaurya-src.github.io?logo=GitLab&style=flat-square)
-![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/shaurya-src.github.io?logo=Git&style=flat-square)
+![RepoSize](https://img.shields.io/github/repo-size/andikasupriatna/andikasupriatna.github.io?logo=GitHub&style=flat-square)
+![License](https://img.shields.io/github/license/andikasupriatna/andikasupriatna.github.io?logo=GitLab&style=flat-square)
+![LastCommit](https://img.shields.io/github/last-commit/andikasupriatna/andikasupriatna.github.io?logo=Git&style=flat-square)
 
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
@@ -56,7 +56,7 @@ In addition, you can also customize the following properties according to the ne
 
 Follow these steps to use *this portfolio* as a template.
 
-1. Clone the repository (`git clone https://github.com/shaurya-src/shaurya-src.github.io.git`)
+1. Clone the repository (`git clone https://github.com/andikasupriatna/andikasupriatna.github.io.git`)
 2. Add the required Assets in the directory
 3. Change details/content of the portfolio in `index.html` file
 4. Push changes after initiating personal repo (`git push -u origin main`)
@@ -94,7 +94,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## <a name="license"> License
 
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/shaurya-src.github.io/blob/main/LICENSE) file for more info.
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/andikasupriatna/andikasupriatna.github.io/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
 <!---
@@ -104,36 +104,29 @@ Any contributions you make are **greatly appreciated**.
 -->
 
 <p align="center">
-  <code> Shaurya Choudhary </code>
+  <code> Andika Budi Supriatna </code>
 </p>
-<!---
-- [Gmail](mailto:shaurya.src@gmail.com)
-- [GitHub](https://github.com/shoheiyokoyama)
-- [LinkedIn](https://www.linkedin.com/in/shaurya-src/)
-- [Instagram](https://www.instagram.com/shaurya_src/)
-- [Twitter](https://twitter.com/shaurya_src)
--->
 
 <br>
 
 <p align="center">
-  <a href="mailto:shaurya.src@gmail.com">
+  <a href="mailto:budiaandika98@gmail.com">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/email.svg"  width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://github.com/shaurya-src">
+  <a href="https://github.com/andikasupriatna">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/github.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/shaurya-src/">
+  <a href="https://www.linkedin.com/in/andikabudi/">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/linkedin.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/shaurya_src/">
+  <a href="https://www.instagram.com/andikabudi23_/">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/instagram.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://twitter.com/shaurya_src">
+  <a href="https://twitter.com/andikabudi23_">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Logos/twitter.svg" width="30" height="30" hspace="20">
   </a>
 </p>
